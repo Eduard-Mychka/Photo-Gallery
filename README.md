@@ -1,2 +1,1 @@
-# Photo Gallery
- https://eduard-mychka.github.io/photo-gallery/.
+# [Photo Gallery](https://eduard-mychka.github.io/photo-gallery/)
